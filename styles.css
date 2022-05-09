@@ -1,0 +1,43 @@
+* {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Brush Sript MT", cursive ;
+    text-transform: capitalize;
+}
+
+h3{
+    padding-left: 20px;
+}
+
+.recipe-links{
+    text-align: center;
+}
+
+li{
+    padding: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ingredients, .directions{
+    padding-left: 65px;
+}
+
+a {
+    padding-inline: 50px;
+    justify-content: space-between;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: auto;
+}
+
+.description{
+    text-align: center;
+}
